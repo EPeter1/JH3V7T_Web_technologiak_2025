@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+    overflow-x: hidden;
+}
+
+h1 {
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.zone {
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+
+#zone1 {
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url('/images/index/space_exploration.webp');
+}
+
+#zone2 {
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url('/images/index/solar_system.webp');
+}
+
+#zone3 {
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url('/images/index/meteor_shower.webp');
+}
+
+#zone4 {
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url('/images/galaxy/milky_way.webp');
+}
+
+#zone5 {
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url('/images/index/contact_us.webp');
+}
+
+.content {
+    position: relative;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 100px 20px;
+    text-align: center;
+}
+
+.content h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-shadow: 0 0 8px #ff0000, 0 0 16px #ff0000;
+}
+
+.content p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+.content img {
+    margin-top: 20px;
+    height: 80px;
+}
+
+.side-nav {
+    position: fixed;
+    top: 50%;
+    right: 25px;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    z-index: 100;
+}
+
+.side-nav button {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    border: none;
+    background: #555;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.side-nav button.active {
+    background: #2ecc40;
+}
+
+#jump-button {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background: #2ecc40;
+    color: white;
+    border: none;
+    padding: 12px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 18px;
+    z-index: 9999;
+    display: none;
+    transition: opacity 0.4s ease;
+}
+
+#jump-button.visible {
+    opacity: 1;
+    pointer-events: all;
+}

@@ -1,0 +1,168 @@
+{
+  "galaxy": [
+    {
+      "source": "images/galaxy/andromeda.webp",
+      "description": "Androméda"
+    },
+    {
+      "source": "images/galaxy/antennae.webp",
+      "description": "Csáp"
+    },
+    {
+      "source": "images/galaxy/black_eye.webp",
+      "description": "Fekete szem"
+    },
+    {
+      "source": "images/galaxy/cigar.webp",
+      "description": "Szivar"
+    },
+    {
+      "source": "images/galaxy/condor.webp",
+      "description": "Kondor"
+    },
+    {
+      "source": "images/galaxy/meathook.webp",
+      "description": "Húskampó"
+    },
+    {
+      "source": "images/galaxy/mice.webp",
+      "description": "Egerek"
+    },
+    {
+      "source": "images/galaxy/milky_way.webp",
+      "description": "Tejútrendszer"
+    },
+    {
+      "source": "images/galaxy/pinwheel.webp",
+      "description": "Szélkerék"
+    },
+    {
+      "source": "images/galaxy/tadpole.webp",
+      "description": "Ebihal"
+    },
+    {
+      "source": "images/galaxy/triangulum.webp",
+      "description": "Triangulum"
+    },
+    {
+      "source": "images/galaxy/whirlpool.webp",
+      "description": "Örvény"
+    }
+  ],
+  "nebula": [
+    {
+      "source": "images/nebula/atlantis.webp",
+      "description": "Atlantisz"
+    },
+    {
+      "source": "images/nebula/cauldron.webp",
+      "description": "Üst"
+    },
+    {
+      "source": "images/nebula/claw.webp",
+      "description": "Karom"
+    },
+    {
+      "source": "images/nebula/crab.webp",
+      "description": "Rák"
+    },
+    {
+      "source": "images/nebula/eden.webp",
+      "description": "Éden"
+    },
+    {
+      "source": "images/nebula/eye.webp",
+      "description": "Kozmikus szem"
+    },
+    {
+      "source": "images/nebula/fire_ring.webp",
+      "description": "Tűzgyűrű"
+    },
+    {
+      "source": "images/nebula/ice_cave.webp",
+      "description": "Jégbarlang"
+    },
+    {
+      "source": "images/nebula/ikran.webp",
+      "description": "Ikran"
+    },
+    {
+      "source": "images/nebula/inferno.webp",
+      "description": "Tűzvész"
+    },
+    {
+      "source": "images/nebula/pheonix.webp",
+      "description": "Pheonix"
+    },
+    {
+      "source": "images/nebula/tarantula.webp",
+      "description": "Tarantula"
+    }
+  ],
+  "spacecraft": [
+    {
+      "source": "images/spacecraft/biosentinel.webp",
+      "description": "BioSentinel"
+    },
+    {
+      "source": "images/spacecraft/cassini.webp",
+      "description": "Cassini"
+    },
+    {
+      "source": "images/spacecraft/curiosity.webp",
+      "description": "Curiosity"
+    },
+    {
+      "source": "images/spacecraft/dawn.webp",
+      "description": "Dawn"
+    },
+    {
+      "source": "images/spacecraft/gaia.webp",
+      "description": "Gaia"
+    },
+    {
+      "source": "images/spacecraft/hayabusa2.webp",
+      "description": "Hayabusa2"
+    },
+    {
+      "source": "images/spacecraft/ikaros.webp",
+      "description": "IKAROS"
+    },
+    {
+      "source": "images/spacecraft/james_webb.webp",
+      "description": "James Webb"
+    },
+    {
+      "source": "images/spacecraft/juice.webp",
+      "description": "Juice"
+    },
+    {
+      "source": "images/spacecraft/lunar_orbiter.webp",
+      "description": "Lunar Orbiter 1"
+    },
+    {
+      "source": "images/spacecraft/messenger.webp",
+      "description": "MESSENGER"
+    },
+    {
+      "source": "images/spacecraft/new_horizons.webp",
+      "description": "New Horizons"
+    },
+    {
+      "source": "images/spacecraft/parker.webp",
+      "description": "Parker"
+    },
+    {
+      "source": "images/spacecraft/rosetta.webp",
+      "description": "Rosetta"
+    },
+    {
+      "source": "images/spacecraft/tess.webp",
+      "description": "TESS"
+    },
+    {
+      "source": "images/spacecraft/voyager.webp",
+      "description": "Voyager"
+    }
+  ]
+}

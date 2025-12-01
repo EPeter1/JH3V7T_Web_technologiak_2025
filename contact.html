@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kapcsolatfelvétel</title>
+    <link rel="stylesheet" href="css/header-footer.css">
+    <link rel="stylesheet" href="css/contact.css">
+    <link rel="icon" href="images/favicon.ico">
+</head>
+<body>
+    <header id="site-header"></header>
+
+    <form>
+        <h1>Lépjen kapcsolatba velünk!</h1>
+
+        <fieldset>
+            <legend>Név</legend>
+
+            <label for="first-name">Keresztnév <span class="required-star">*</span></label>
+            <input type="text" name="first-name" id="first-name" class="name" pattern="^[\p{L}\s]+$" title="Csak betűk és szóközök lehetségesek" placeholder="Írja be a keresztnevét" required>
+
+            <label for="last-name">Vezetéknév <span class="required-star">*</span></label>
+            <input type="text" name="last-name" id="last-name" class="name" pattern="^[\p{L}\s]+$" title="Csak betűk és szóközök lehetségesek" placeholder="Írja be a vezetéknevét" required>
+
+            <div class="warning" id="name-warning" role="alert">A név csak betűket és szóközöket tartalmazhat!</div>
+        </fieldset>
+
+        <fieldset>
+            <legend>Elérhetőség</legend>
+
+            <label for="email">E-mail <span class="required-star">*</span></label>
+            <input type="email" name="email" id="email" placeholder="Írja be az e-mail címét" required>
+            <ul id="email-list">
+                <li>@gmail.com</li>
+                <li>@yahoo.com</li>
+                <li>@outlook.com</li>
+                <li>@hotmail.com</li>
+                <li>@freemail.hu</li>
+            </ul>
+            <div class="warning" id="email-warning" role="alert">Az e-mail cím formátuma helytelen!</div>
+
+            <label for="phone-number">Telefonszám</label>
+            <div id="phone-container">
+               <span style="margin-right: 5px;">+36</span>
+               <input type="tel" name="phone-number" id="phone-number" placeholder="Írja be a telefonszámát" style="align-items: center;">
+            </div>
+            <div class="warning" id="phone-warning" role="alert">A telefonszám formátuma helytelen!</div>
+        </fieldset>
+
+        <label for="message">Üzenet <span class="required-star">*</span></label>
+        <textarea name="message" id="message" maxlength="500" placeholder="Miben segíthetünk?" required></textarea>
+        <div style="color: #555;">Karakterek: <span id="char-count">0</span> / 500</div>
+
+        <div id="checkbox-container">
+            <input type="checkbox" id="terms-checkbox" value="true" required>
+            <span id="terms-text">Megismertem és elfogadom az <a href="https://gdpr-info.eu/" target="_blank">Adatkezelési nyilatkozatot</a>.</span>
+        </div>
+
+        <p style="width: 100%; margin-bottom: 30px;">
+            A <span style="color: red;">*</span>-al jelölt mezők kitöltése kötelező!
+        </p>
+
+        <div id="button-container">
+            <button type="submit" id="submit-button">Küldés</button>
+            <button type="reset" id="reset-button">Törlés</button>
+        </div>
+    </form>
+
+    <footer id="site-footer"></footer>
+
+    <script src="js/header-footer.js"></script>
+    <script src="js/contact.js"></script>
+</body>
+</html>

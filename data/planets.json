@@ -1,0 +1,168 @@
+[
+  {
+    "name": "Merkúr",
+    "image": "images/planets/mercury.webp",
+    "description": [
+      "A Merkúr a Naprendszer legbelső és legkisebb bolygója, a Nap körüli keringési ideje 88 nap. A Merkúr a Földről nézve fényesnek látszik, magnitúdója −2,0 és 5,5 között változik, azonban nehéz észlelni, mert a Földről nézve a Naptól mérhető legnagyobb szögtávolsága csak 28,3°. Reggel vagy este szürkületkor lehet megfigyelni.",
+      "A bolygóról viszonylag keveset tudunk. A Merkúrt meglátogató két űreszköz közül az első a Mariner–10 volt, amely 1974–1975-ben a bolygó felszínének csupán 45%-át térképezte fel. A második a MESSENGER, amely további 30%-ot mutatott meg a bolygó felszínéből, amikor 2008. január 14-én elrepült mellette. Ez az űreszköz 2008. október 6-án és 2009. szeptember 29-én még kétszer elhaladt a bolygó mellett, 2011. március 19-én bolygó körüli pályára állt, mintegy 200 kilométerre a felszíntől – adatokat gyűjt, azokat a Földre továbbítja, miután a maximális magasságba került, 15 000 kilométerre a felszíntől. Ekkortól tovább tanulmányozza és feltérképezi az egész égitestet.",
+      "A Merkúr sok tekintetben hasonlít a Holdra: felszínét számos kráter borítja, nincs természetes holdja, és nincs állandó légköre. Azonban a Holddal ellentétben nagy, vasat tartalmazó magja van, melynek következtében rendelkezik mágneses mezővel, melynek erőssége a földinek körülbelül 1%-a. Magjának relatív mérete miatt kivételesen nagy a bolygó sűrűsége. Felszíni hőmérséklete 90 és 700 K (-183 és 427 °C) között változik. Ahol a Nap éppen merőlegesen éri a felszínt, ott van a legmelegebb, és a sarkokhoz közeli kráterek mélyén mérik a leghidegebbet. A Merkúr felszíne megjelenésében nagyban hasonlít a Holdéra; kiterjedt tengerszerű síkságok és sok kráter jelzi, hogy felszíne már több milliárd éve változatlan. Mivel a Merkúr felszínéről ismertté vált dolgok a Mariner repülésének és a nagy felbontású űrtávcsövek megfigyeléseinek köszönhetők, ezt a bolygót ismerjük legkevésbé a Föld-típusú bolygók közül. A mostani MESSENGER-utazás eredményeinek feldolgozását követően bővülni fog ez a tudásállomány. Például a kutatók egy szokatlan krátert fedeztek fel, amelyben sugárirányban árkok húzódnak, és amit „pók”-nak neveztek el. Az albedo jelenségek olyan területekre utalnak, melyeknek nagyobb a visszaverő-képessége. A Merkúron találhatóak gyűrt hegységek, a Holdon találhatókhoz hasonló felföldek, síkságok, sziklás vidékek, szakadékok és völgyek is.",
+      "A Merkúrt 4,6 milliárd évvel ezelőtti kialakulásakor és rövid ideig azt követően is sok üstökös- és aszteroidabecsapódás érte. Egy második hullám is elérhette, 3,8 milliárd évvel ezelőtt, amit „késői heves bombázás”-nak neveznek. Ezalatt a heves kráterkialakulásokkal jellemezhető időszak alatt teljes felszínén külső behatások érték, amit a légkör hiánya megkönnyített, mert ez sem lassította a becsapódásokat. Ebben az időben a bolygón heves vulkanikus aktivitás volt tapasztalható, melynek következtében a Holdon megtalálható holdtengerekhez hasonló mélyedések jöttek létre. Ezek közé tartozik a Caloris-medence is. Mióta 2008 októberében a MESSENGER elrepült a Merkúr mellett, a kutatóknak nagyobb rálátásuk van a Merkúr kaotikus természeti képére. A bolygó felszíne sokkal változatosabb, mint akár a Marsé, akár a Holdé, melyeknek hasonló tulajdonságokkal jellemezhető a felszíne (tengerek, felföldek stb.)."
+    ],
+    "data": {
+      "type": "sziklás",
+      "mass": 3.3e23,
+      "diameter": 4879.4,
+      "density": 5.43,
+      "distance": 5.791e7,
+      "temperature": 437,
+      "rotation": 58.65,
+      "moons": 0
+    }
+  },
+  {
+    "name": "Vénusz",
+    "image": "images/planets/venus.webp",
+    "description": [
+      "A Vénusz a második bolygó a Naptól, keringési ideje 224,7 földi nap. Nevét Venusról, a szépség római istennőjéről kapta. A Hold után a legfényesebb objektum az éjszakai égbolton, legnagyobb látszólagos fényessége -4,6 magnitúdó. Maximális fényességénél még nappal is észrevehető. Mivel a Vénusz közelebb van a Naphoz, mint a Föld, és kering körülötte, ezért néhány hónapig a Naptól keletre, később néhány hónapig a Naptól nyugatra látható, változó távolságra. A keringés mindkét szélső pontjának látszólagos távolsága a Naptól, azaz a bolygó legnagyobb kitérése 47,8°, vagyis a Napot legfeljebb három órával követi, illetve előzi meg az égen.",
+      "A kalauzcsillagok közé tartozik, mivel segítette az embereket utazásaik során a tájékozódásban. Emiatt nagyon kedvelt volt és szívesen adtak különféle hangzatos neveket neki, külön a reggel látható és külön az esti Vénusz számára, mint például a Hajnalcsillag és Esti csillag nevet, amelyből keletkezett a jól ismert Esthajnalcsillag elnevezés. Az ókori görögök a kettőt még két külön égitestnek hitték, Heszperosz (napnyugati) és Foszforosz (fényhozó) néven ismerték. Magyar neveit főleg a szabad ég alatt élő pásztoroktól kaphatta. A bolygó „csillag” elnevezése természetesen csak nem csillagászati értelemben, hanem általános, népies szóhasználatban állja meg a helyét. A Vénusz a Naprendszer egyetlen olyan bolygója, mely női alakról kapta a nevét. Ezen kívül csak három törpebolygó – a Ceres, az Eris és a Haumea visel női nevet.",
+      "Föld-típusú bolygónak számít, a Föld testvérbolygójának is hívják, mivel a két bolygónak hasonló a mérete, a gravitációs ereje és a tömege. Nagy fényvisszaverő képességű kénsav tartalmú felhőréteg takarja el a fény elől a felszínt. Ez sokáig olyan találgatásoknak adott alapot, melyekre a planetológia csak a 20. század folyamán tudta megadni a választ. A kőzetbolygók közül a Vénusznak van a legsűrűbb légköre, amelyet főleg szén-dioxid alkot. A légköri nyomás a földinek 92-szerese. Hiányzik a szén körforgása, amely biztosítaná, hogy a felszabadult szén visszakerüljön a sziklákba és más felszíni képződményekbe, s a szerves élet hiánya miatt nem jöhet létre ezt elnyelő biomassza sem. Olyan meleg van a felszínen, hogy az egyes feltételezések szerint a felszínen valaha létezett, a földihez hasonló óceánok régen elpárologtak. A helyén csak sivatagszerű síkságok és szikladarabok maradtak. A leginkább elfogadott elmélet szerint az elpárolgott víz kivált, és a bolygó mágneses terének hiányát kihasználva a napszél szétterítette az űrben a hidrogénrészecskéket.",
+      "A felszínt 1990-94 között térképezte fel a Magellan űrszonda. A bolygó felszíne kiterjedt vulkanizmus nyomait mutatja és a légkörben megtalálható kén több szakértő véleménye szerint napjainkban is aktív vulkanikus folyamatokra utal. A kevés becsapódási kráter arra utal, hogy a felszín fiatal, legfeljebb félmilliárd éves. A legutóbbi időkig talány volt, miért nem kapcsolódik egyik látható kalderához sem lávaömlés nyoma. 2010-ben az európai Venus Express VIRTIS infravörös képalkotó spektrométerének segítségével több vulkán környékén is felfedeztek fiatal, 2,5 millió évesnél fiatalabb lávafolyásokat, azaz a felszín geológiai értelemben ma is aktív. A bolygón nincs lemeztektonikára utaló jel, ami abból fakadhat, hogy kérge túl kemény ahhoz, hogy szubdukció menjen végbe."
+    ],
+    "data": {
+      "type": "sziklás",
+      "mass": 4.87e24,
+      "diameter": 12103.6,
+      "density": 5.24,
+      "distance": 1.0821e8,
+      "temperature": 232,
+      "rotation": -243.02,
+      "moons": 0
+    }
+  },
+  {
+    "name": "Föld",
+    "image": "images/planets/earth.webp",
+    "description": [
+      "A Föld (görögül: Γαῖα - Gaia, latinul: Terra) a Naptól számított harmadik bolygó a Naprendszerben. A legnagyobb átmérőjű, tömegű és sűrűségű az ismert Föld-típusú bolygók közül. Több millió faj,[11] köztük az ember élőhelye is. A Föld a világegyetem egyetlen olyan bolygója, amelyről tudjuk, hogy életet hordoz. Jelenlegi ismereteink szerint 4,44–4,54 milliárd éve alakult ki, és a felszínén mintegy egy milliárd év múlva az élet is megjelent. Azóta a bioszféra jelentősen megváltoztatta az atmoszférát, és más, biotikus összetevőit. Ezzel lehetőség nyílt az aerob organizmusok osztódásos szaporodására, és létrejött az ózonréteg, amely megszűri a Nap felől érkező ultraibolya sugárzást.",
+      "A Föld felszínét a Föld mágneses mezője védi a nagyenergiájú kozmikus sugárzástól. A Naprendszer külső körülményei a várakozások szerint még mintegy 1,5 milliárd évig támogatják az élet jelenlétét, de ezután a mind fényesebbé váló Nap el fogja tüntetni a bioszférát. A földkéreg több különálló részre, tektonikai lemezekre töredezett, és ezek az elmúlt évmilliók során, és jelenleg is folyamatosan mozognak egymáshoz képest. A felszín nagyjából 71 százalékát sós vizű óceánok, a fennmaradó területet kontinensek és szigetek foglalják el. Nem tudunk más olyan bolygóról, aminek felszínén folyékony víz található, márpedig az a földi élet elengedhetetlen feltétele. A Marson valaha volt víz, de ma már csak legfeljebb nyomokban, jéggé fagyva fordulhat elő. A Föld belseje aktív maradt.",
+      "A Föld több objektummal is gravitációs kapcsolatban áll a világűrben. Ezek közül legjelentősebb a Nap és a Hold. Jelenleg, amíg a Föld megkerüli a Napot, addig nagyjából 366,26-szor megfordul saját tengelye körül. Ez az időszak egy sziderikus év, ami nagyjából 365,26 sziderikus napig tart. A Föld tengelyének ferdesége a keringési síkra bocsátott merőlegeshez képest 23,4°. Ennek következményei az évszakok. A Föld egyetlen természetes holdja, a feltételezett 4,53 milliárd éve létrejött Hold vonzása alakította ki az árapályt, amely egyensúlyban tartja a tengelyferdeséget és valamelyest lassítja a bolygó forgását. Az óceánok kialakulásában egyes elméletek szerint a bolygó történetének korai szakaszában nagy szerepet játszott egy üstököseső. Később a felszínt kisrészt kisbolygók becsapódásai alakították még, azonban ezek szerepe elhanyagolható a tektonika és a lepusztulás mellett.",
+      "A bolygó egész felszínét belakó emberiség az ásványkincseket és az élőlényeket is hasznosítja. A nagyjából 200 szuverén állam kapcsolatainak fő formái a diplomácia, az utazás, a kereskedelem és a hadi tevékenységek. Az emberek sokféleképpen képzelték el a Föld jellegét és kialakulását az isteni megszemélyesítéstől a lapos Föld elméletén át napjaink integrált, tudományos világképéig. Ember először 1961-ben hagyta el bolygónkat, amikor Jurij Gagarin fölrepült a világűrbe.",
+      "A Föld hét másik bolygótársával, a körülöttük keringő holdakkal, kisbolygókkal, törpebolygókkal, üstökösökkel és meteorokkal, valamint csillagunkkal, a Nappal együtt a Naprendszer tagja. Galaxisunk, a Tejútrendszer 200–400 milliárd csillagból áll. (Az átlagos Föld-Nap távolságot csillagászati egységnek (CsE) nevezzük.) Az emberiség évezredek óta kutatja a Föld keletkezésének a titkát. Az ókori és középkori tudósok Istennek tulajdonították a Föld keletkezését. Az 1700-as években a természettudományok fejlődése rohamosan felgyorsult, ennek következtében egyre több elmélet született a Föld keletkezésére vonatkozólag. A mai modern teóriák a régebbi elméletek részleteit is tartalmazzák, miszerint: a Nap és bolygói por- és gázfelhőből alakultak ki. Ez az anyag kb. 4,6 milliárd éve kezdett összehúzódni, forgása felgyorsult. A középpontban kialakuló sűrű gázgömbből alakult a Nap, a kívül maradt felhőben pedig kristályos anyagok maradtak fenn és csapódtak ki a fokozatos lehűlés következtében. A Nap körüli felhő kristályos anyaga fokozatosan csomósodott előbb kis méretű égitestekké (planetezimálok), majd nagyobb tömegű égitestekké, végül a bolygókká."
+    ],
+    "data": {
+      "type": "óceáni",
+      "mass": 5.97e24,
+      "diameter": 12756.27,
+      "density": 5.51,
+      "distance": 1.496e8,
+      "temperature": 255,
+      "rotation": 365.25,
+      "moons": 1
+    }
+  },
+  {
+    "name": "Mars",
+    "image": "images/planets/mars.webp",
+    "description": [
+      "A Mars a Naptól számított negyedik bolygó a Naprendszerben. Szabad szemmel is könnyedén látható az éjszakai égbolton. A római hadistenről nevezték el, de gyakran hívják „vörös bolygónak” is színe miatt, amit a Mars felszínét meghatározó vas-oxid okoz. A Mars a harmadik legnagyobb kőzetbolygó, számos rendkívüli felszíni képződménnyel. Két természetes holdja van, a Phobosz és a Deimosz, mindkettő kicsi és szabálytalan alakú, valószínűleg befogott kisbolygók. Továbbá jelenleg három mesterséges hold kíséri útján: Mars Odyssey, Mars Express és a Mars Reconnaissance Orbiter.",
+      "Mivel a Mars feleakkora átmérőjű, mint a Föld, ezért felszíne negyede, a tömege kb. nyolcada a Földének. A talajminták vizsgálata alapján a Mars talaja nagy valószínűséggel alkalmas az életre, növények termesztésére: Az Antarktika szárazabb völgyeiben található talajhoz hasonló tulajdonságokat mutat. Lúgos kémhatású (az adott elemzés 8-9 közötti pH-értékeket mutatott ki), kimutatható magnézium, nátrium és kálium, az élethez szükséges tápanyagokat, és vegyületeket is találtak.",
+      "A Mars felszíne két jelentősen különböző részre tagolódik. Az Északi medence mely egyben az eddig ismert legnagyobb becsapódási kráter vidékein lávafolyások találhatóak, míg a déli részen felföldek ősi becsapódások nyomaival. Földi távcsövekkel nézve a Mars szintén két részre tagolható, amelyek albedója (fényvisszaverő képessége) különböző. A világosabb területeken vörös vasoxidban gazdag por és homok található. Ezeket régebben marsi földrészeknek hitték, emiatt vannak az ehhez hasonló elnevezések: Arabia Terra (Arab föld) vagy Amazonis Planitia (Amazon-medence). A sötét részeket tengereknek gondolták, ezért kaptak ilyen neveket: Mare Erytherium, Mare Sirenum és Aurorae Sinus (mare = tenger, sinus = öböl). A legnagyobb sötét rész, amely a Marson látható a Syrtis Major.",
+      "A Marsnak jégsapkája van a pólusokon, amely fagyott vizet és szén-dioxid-ot tartalmaz. Az Olympus Mons, a már nem működő pajzsvulkán, a 27 km-es magasságával a Naprendszer legmagasabb hegye. (A Földön a háromszor akkora gravitáció miatt nem lehet ekkora hegy.) Az Olympus Mons a Tharsis-régióban található, amelyen még több nagy kialudt vulkán is van. A Marson van a Naprendszer legnagyobb kanyonrendszere, a Valles Marineris is, mely 4000 km hosszú és 7 km mély.",
+      "A Marsot rengeteg becsapódási kráter tarkítja. A legnagyobbak ezek közül a Hellas-medence, amelyet világos vörös homok borít. A Curiosity marsjáró 2012 óta vizsgálja a Gale-kráter körzetét. A szilícium-dioxid (kova) röntgenvizsgálatainak adatait elemző amerikai kutatócsoport bizonyítékot talált tridimit létezésére. A kvarc 870 Celsius-foknál magasabb hőmérsékleten, lassan alakul át tridimitté, vagyis ez az ásvány hosszan tartó, heves vulkánkitörések nyomán keletkezhetett. Ez éles ellentétben van a Mars eddig ismert történelmével.",
+      "Egy Afrikában 2012-ben talált marsi meteorit (elnevezése: Northwest Africa 7635) elemzése arra utaló bizonyítékot tárt fel, hogy a Marson legalább 2 milliárd évig zajlott a vulkáni tevékenység. Eszerint a Naprendszer leghosszabb életű vulkánjai közül néhány a Marson található. A Northwest Africa 7635 egy adott típusú vulkáni kőzet, úgynevezett sergotit. Tizenegy hasonló kémiai összetételű marsi meteoritot találtak. A korábban vizsgált marsi meteoritok kora 327-600 millió éves volt."
+    ],
+    "data": {
+      "type": "sziklás",
+      "mass": 6.42e23,
+      "diameter": 6779,
+      "density": 3.93,
+      "distance": 2.2794e8,
+      "temperature": 209,
+      "rotation": 1.03,
+      "moons": 2
+    }
+  },
+  {
+    "name": "Jupiter",
+    "image": "images/planets/jupiter.webp",
+    "description": [
+      "Jupiter az ötödik bolygó a Naptól, és messze a legnagyobb bolygó a Naprendszerben. Óriásbolygó, tömege két és félszerese az összes többi bolygó együttes tömegének. A többi óriásbolygóval (Szaturnusz, Uránusz, Neptunusz) együtt gyakran Jupiter-típusú, vagy külső bolygóknak nevezik. A Földről nézve maximális fényessége -2,94 magnitúdó, ezzel átlagosan a harmadik legfényesebb égitest az éjszakai égbolton, a Hold és a Vénusz után (rövid időre a Mars vetekedhet fényességével pályájának bizonyos pontjain).",
+      "A Jupiter főként hidrogénből áll, tömegének egynegyedét hélium teszi ki, sziklás magja nehezebb elemeket tartalmazhat. Gyors forgása miatt alakja forgási ellipszoid (lapított gömb). A külső atmoszférája láthatóan számos sávra oszlik a különböző szélességi körökön, turbulenciát és viharokat okozva ezek határain. Kiemelkedő látványosság a Nagy Vörös Folt, egy óriási vihar, amit már a 17. században is megfigyeltek. A bolygót halvány planetáris gyűrűrendszer és erős magnetoszféra vesz körül. 97 holdja van (2025-ös adat), köztük a négy legnagyobbat Galilei-holdaknak nevezzük, amelyeket 1610-ben fedezett fel névadójuk. A Jupitert számos űrszonda vizsgálta már, legismertebbek ezek közül a Pioneer és Voyager közelrepülések és később a Galileo űrszonda.",
+      "A Jupiter a Naprendszer négy gázóriásának egyike; elsősorban nem szilárd anyagból áll. 142 984 kilométeres egyenlítői átmérőjével a legnagyobb bolygó a Naprendszerben. A Jupiter sűrűsége 1,326 g/cm³, a második legnagyobb a gázbolygók közül, de a négy kőzetbolygóénál kisebb. A gázóriások közül a Neptunusznak van a legnagyobb sűrűsége. A Jupiter felső légköre atomszám szerint 93% hidrogénből és 7% héliumból áll, molekulaszám szerint 86% hidrogénből és 13% héliumból. Mivel a héliumatom négyszer nagyobb tömegű, mint a hidrogénatom, az összetétel változik, ha a tömegarányt nézzük. Ez alapján a légkör 75%-a hidrogén, 24%-a hélium, 1%-a más elem. A bolygó belseje sűrűbb anyagot tartalmaz, nagyjából 71% hidrogént, 24% héliumot és 5%-a más elemeket. A légkör nyomokban tartalmaz metánt, vizet, ammóniát és szilícium alapú összetevőket. Található még szén, etán, hidrogén-szulfid, neon, oxigén és kén. A légkör külső rétege tartalmaz fagyott ammóniakristályt is. Infravörös és ultraibolya mérésekkel benzolt és más szénhidrogént is kimutattak.",
+      "Színképelemzés alapján a Szaturnuszról úgy tudjuk, hogy összetétele hasonló a Jupiteréhez. A másik két gázóriásnak, az Uránusznak és a Neptunusznak viszonylag kevesebb hidrogénje és héliuma van. Helyszíni mérések hiánya miatt a nehezebb elemek pontos gyakorisága a Jupiteren túli bolygóknál nem ismert.",
+      "Bár a Föld eltörpül a Jupiter mellett (átmérője 11-szer kisebb), az óriásbolygó sűrűsége jóval kisebb. Ha a Jupiter nagyobb tömegű lenne a jelenleginél, valószínűleg összeroskadna. A belső egyre jobban összehúzódna a fokozott gravitációs erő alatt. Az összehúzódás addig folytatódna, amíg a magfúzió be nem indulna. Néhány csillagász sikerületlen csillagnak nevezi a Jupitert. Bár a bolygónak hetvenötször kellett volna nagyobb tömegűnek lennie, hogy csillag lehessen, a legkisebb vörös törpe csak körülbelül 30%-kal nagyobb sugarú, mint a Jupiter."
+    ],
+    "data": {
+      "type": "gázóriás",
+      "mass": 1.9e27,
+      "diameter": 142984,
+      "density": 1.33,
+      "distance": 7.7848e8,
+      "temperature": 88,
+      "rotation": 0.41,
+      "moons": 97
+    }
+  },
+  {
+    "name": "Szaturnusz",
+    "image": "images/planets/saturn.webp",
+    "description": [
+      "A Szaturnusz a hatodik bolygó a Naptól számítva, a második legnagyobb a Naprendszerben a Jupiter után. Egyike annak az öt bolygónak, ami a Földről szabad szemmel is látható. A Szaturnusznak látványos, jégből és törmelékekből álló gyűrűrendszere van. A Szaturnusz lapított gömb alakú. Az egyenlítői és sarki átmérő majdnem 10%-kal különbözik (120 536, illetve 108 728 kilométer). Ez a nagy sebességű forgás eredménye, azonban a tengely körüli forgás idejét még nem sikerült meghatározni. A többi gázbolygó szintén lapított, de kisebb mértékben.",
+      "A Szaturnusz a Naprendszer egyetlen bolygója, melynek sűrűsége kisebb a víznél. Bár a Szaturnusz magja sokkal sűrűbb, mint a víz, az átlagos sűrűsége a gáznemű légkör miatt 0,69 g/cm³. Mágneses tengelye szinte egybeesik a forgástengelyével, ami ellentmond a bolygók mágneses tere kialakulásának, így ez az elmélet módosításra szorul. A Szaturnusz belső szerkezete hasonlít a Jupiterhez, egy sziklás mag a központban, felette egy folyékony fémes hidrogénréteg, kívül pedig egy molekuláris hidrogénréteg. A Szaturnusz belsejének hőmérséklete a magnál eléri a 11 700 °C-ot, és emiatt a bolygó több energiát sugároz vissza az űrbe, mint amennyit a Naptól kap. Az energiakülönbség legnagyobb részét a Kelvin-Helmholtz folyamat (lassú gravitációs kompresszió) hozza létre, de ez egyedül nem lehet elegendő, hogy megmagyarázza a Szaturnusz teljes hőtermelését. Egy másik elmélet feltételezi, hogy a bolygó belsejében a folyékony hidrogénben lassan lesüllyedő hélium hőenergiát szabadít fel.",
+      "A Szaturnusz légköre a Jupiterhez hasonló sávos felépítésű, de a Szaturnusz sávjai sokkal halványabbak és sokkal szélesebbek az egyenlítő közelében. A Szaturnusz szelei a Naprendszerben a leggyorsabbak közé tartoznak. A Voyager adatok szerint elérhetik az 1800 km/h-t. A Szaturnusz halványabb felhőmintázatát a Voyager küldetésekig nem láthattuk. Azóta a földi teleszkópok már annyit fejlődtek, hogy rendszeres megfigyeléseket végezhetnek.",
+      "A Szaturnusz főleg a gyűrűrendszeréről ismert, amely az egyik leglátványosabb objektum a Naprendszerben. A főbb gyűrűk nevei: D, C, B, A, F, G és E (a bolygótól való távolság függvényében). A gyűrűket először Galileo Galilei figyelte meg távcsövével 1610-ben, de nem tudta azonosítani őket. Azt írta, „a bolygó nincs egyedül, hanem három részből áll, amelyek majdnem érintik egymást és soha nem mozdulnak el egymáshoz képest”. 1612-ben a gyűrűk síkja közvetlenül a Föld felé irányult és a gyűrűk látszólag eltűntek, majd 1613-ban újra megjelentek. 1675-ben Giovanni Domenico Cassini megállapította, hogy a Szaturnusz gyűrűjét valójában több kisebb gyűrű és a köztük lévő rések alkotják; a legnagyobb ilyen rést később Cassini-résnek nevezték el. 1859-ben James Clerk Maxwell bebizonyította, hogy a gyűrűk nem lehetnek egy tömbből, és felvetette, hogy apró részecskéből állnak, melyek egymástól függetlenül keringenek a bolygó körül. Maxwell elméletét 1895-ben bizonyították be a gyűrűkről végzett spektroszkópos megfigyelésekkel, amelyeket James Keeler végzett a Lick Obszervatóriumban.",
+      "Két fő elmélet létezik a Szaturnusz-gyűrűk eredetének magyarázatára. Az egyik elmélet, amelyet eredetileg a 19. században Édouard Roche javasolt az, hogy a gyűrűk egyszer a Szaturnusz egyik holdját alkották, melynek pályamagassága annyira lecsökkent, hogy a bolygó közelében az árapályerők miatt széthullott (lásd Roche-határ). Ennek az elméletnek egy változata, hogy a hold egy nagy üstökössel vagy aszteroidával való ütközés miatt hullott szét. A második elmélet szerint a gyűrűk soha nem képezték egy hold részét, hanem az eredeti csillagközi anyagból maradtak meg, amelyből a Szaturnusz kialakult. Ezt az elméletet széles körben ma már nem fogadják el, mióta a gyűrűkről úgy tudják, néhány millió éves időszakon túl instabilak, tehát viszonylag új eredetűek lehetnek."
+    ],
+    "data": {
+      "type": "gázóriás",
+      "mass": 5.68e26,
+      "diameter": 120536,
+      "density": 0.69,
+      "distance": 1.43353e9,
+      "temperature": 134,
+      "rotation": 0.44,
+      "moons": 274
+    }
+  },
+  {
+    "name": "Uránusz",
+    "image": "images/planets/uranus.webp",
+    "description": [
+      "Az Uránusz a Naprendszer hetedik bolygója. Óriásbolygó, a harmadik legnagyobb átmérőjű és a negyedik legnagyobb tömegű. Az Uránusz felfedezését 1781. március 13-ától számítjuk, mert ekkor pillantotta meg először Sir William Herschel. Azóta tudjuk, hogy a bolygót előzőleg 1690 és 1771 között legalább hússzor regisztrálták, de mindannyiszor csillagnak vélték. Az elmozdulását pedig mérési hibának. Herschel eleinte nem volt tisztában vele, hogy a Naprendszer egy eddig ismeretlen bolygóját fedezte fel, először üstökösként azonosította az égitestet. Nem tartott sokáig, mire a csillagászok felismerték e felfedezés jelentőségét. Sir William eredetileg támogatójáról, III. György angol uralkodóról nevezte el a bolygót, a Georgium Sidus (György csillaga) név azonban nem talált lelkes fogadtatásra a világ többi részén. Lalande azt javasolta, hogy a felfedezőről nevezzék el, végül Johann Elert Bode német csillagász elképzelése kerekedett felül, az Uránusz (Οὐρανός latinosított neve), ami így jobban illeszkedett a többi bolygó ógörög-latin elnevezéseinek sorába). Uránosz az atyja Kronosznak, amely Szaturnusz görög megfelelője, az ég ura. Herschel hat évvel később felfedezte az Uránusz két legnagyobb holdját: a Titániát (III) és az Oberont (IV). Az Arielt (I) és az Umbrielt (II) 1851-ben Lassell találja meg. A Mirandát (V) csak 1948-ban fedezi fel Gerard Kuiper.",
+      "Az Uránusz légköre nagyrészt hidrogénből (83%) és héliumból (15%) áll. Kevés metánt (2%) is tartalmaz, amely az atmoszféra felső részén elnyeli a vörös fényt, ami miatt a bolygó halvány kékeszöld színű. A felhők ugyanúgy mozognak a szélességek mentén, mint a Jupiter és a Szaturnusz esetében, csak sokkal halványabbak. Az Uránusz tengelyhajlása 90°-nál is nagyobb, ezért legtöbbször az egyik pólus van a Nap irányában. A pólusokon melegebb van, mint az egyenlítőn, a több napenergia miatt. A nagy tengelyhajlás egy korai bolygóméretű objektummal való ütközés során jöhetett létre több milliárd évvel ezelőtt.",
+      "Az Uránusznak a Földénél sokkal nagyobb, a Jupiterénél kisebb mágneses tere van. A holdak mind ebben a mágneses térben keringenek. A mágneses tér a bolygó belsejében alakul ki, de még nem lehet tudni, hogy pontosan mi hozza létre. A Jupiternél és Szaturnusznál feltételezhető fémes hidrogénből álló övezet az ehhez szükséges elegendő tömeg hiányában az Uránusznál (és a Neptunusznál) nem tud kialakulni. Mágneses tengelye 60°-kal tér el a forgási tengelytől.",
+      "Jelenleg 29 ismert holdja van az Uránusznak. Legnagyobbak a bolygótól való távolság sorrendjében: Miranda (V), Ariel (I), Umbriel (II), Titánia (III) és Oberon (IV). A Voyager–2 tizenegy további Uránusz-holdat fedezett fel (Cordelia, Ophelia, Bianca, Cressida, Desdemona, Juliet, Portia, Rosalinda, Belinda, Puck és Perdita, amit csak 1999-ben találnak meg a Voyager-2 felvételeken). A Caliban és Sycorax holdakat 1997-ben fedezik fel földi távcsövekkel. A Setebos, Stephano és Prospero 1999-ben, a Trinculo, Francisco, Ferdinand és Margaret 2001-ben, a Mab és a Cupido pedig 2003-ban kerül felfedezésre. A holdakat Shakespeare és Alexander Pope hőseiről nevezték el. Az Uránusz holdjai igen halványak. Még a legnagyobb és legfényesebb Titania is 14 magnitúdós, ezért csak távcsövekkel figyelhető meg.",
+      "1986-ban a NASA Voyager–2 űrszondája lett az első, amely megközelítette az Uránuszt. Ez a bolygó eddigi egyetlen közeli megfigyelése, és bár az évek során tudósok és szakemberek több uránuszi küldetést is javasoltak, ezek közül még nem valósult meg egy sem. Az 1977-ben indított Voyager–2 1986. január 24-én repült el az Uránusz mellett, 81 500 km-re a bolygó felhőzetének határától. Az űrszonda megvizsgálta az Uránusz légkörének felépítését és kémiai összetételét, beleértve az egyedi időjárását, amelyet a 97,77°-os tengelyhajlása okoz. A Voyager–2 elsőként tanulmányozta közelről öt addig ismert holdját is, és az általa gyűjött adatokat azóta is vizsgálva űrkutatók 11 újat fedeztek fel. Az űrszonda két új gyűrűt is felfedezett az Uránusz körül."
+    ],
+    "data": {
+      "type": "jégóriás",
+      "mass": 8.68e25,
+      "diameter": 51118,
+      "density": 1.27,
+      "distance": 2.871e9,
+      "temperature": 76,
+      "rotation": -0.72,
+      "moons": 29
+    }
+  },
+  {
+    "name": "Neptunusz",
+    "image": "images/planets/neptune.webp",
+    "description": [
+      "A Neptunusz a Naptól számítva a nyolcadik, legkülső bolygó a Naprendszerben. A negyedik legnagyobb átmérőjű, és a harmadik legnagyobb tömegű, de a legkisebb méretű óriásbolygó. Színe miatt Neptunusról, a tengerek római istenéről nevezték el. 14 ismert holdja van, ezek közül a két ismertebb a Nereida és a Triton.",
+      "Galileo Galilei már 1613 januárjában észlelte a bolygót, amikor az a Jupiterhez igen közel látszott, és sikerült két egymást követő éjszakán is megfigyelnie. Jegyzeteiből kitűnik, hogy január 28-án észrevette a Neptunusz elmozdulását egy háttércsillaghoz képest, és január 6-án is utólag bejelölt egy pontot a Neptunusz akkori pozíciójában, azaz korábbi jegyzeteiben valószínűleg átnézte a környezetre vonatkozó korábbi észleléseit. Nem ismert viszont olyan bejelentése, amelyben kortársait értesítette volna a felfedezéséről. Az első ember, aki egyértelmű utalást tett egy Uránuszon túli bolygó létezésére, egy amatőr csillagász, Hussey tiszteletes, kenti rektor volt. 1834-ben írt erről G. B. Airy cambridge-i professzornak, aki 1835-től királyi csillagász lett. Airy azonban szkeptikus volt, és ebbe Hussey is belenyugodott. John Couch Adams tehetséges angol matematikus 1841-ben határozta el, hogy az Uránusz pályaháborgásait felhasználva kiszámítja egy lehetséges új bolygó koordinátáit. 1845-ben számításai eredményeit elküldte Airy királyi csillagásznak, de megfigyelés nem történt. A francia Urbain Le Verrier hasonló számításokat végzett. Adams és Le Verrier számításai egy fokon belül megegyeztek. De Le Verrier se járt jobban a francia csillagászokkal, ezért írt Johann Gallénak a berlini obszervatóriumba. Így a Neptunuszt az Uránusz mozgásából levezetett perturbációk alapján Galle fedezte fel 1846-ban.",
+      "A Neptunusz átlagos keringési távolsága 4,5 milliárd km (30,1 CsE), egy teljes fordulatot 164,79 év alatt tesz meg a Nap körül. Pályájának excentricitása 0,00858587, keringési síkja 1,77°-os szöget zár be az ekliptikával. Tengelyferdesége 28,32°, ami hasonló a Föld, vagy a Mars tengelyferdeségéhez, így a két bolygóhoz hasonló évszakai is vannak, habár ezek a hosszú keringési idő miatt jóval hosszabbak, mint a Földön vagy a Marson. Sziderikus forgási periódusa 15,97 óra, de a többi gázbolygóhoz hasonlóan a különböző szélességi körökön eltérő idő alatt fordul meg. Az egyenlítői régiókban 18 óráig tart egy nap, míg a sarkvidékeken csak 12 óráig. Keringési rezonanciában van a Pluto törpebolygóval: Míg a Neptunusz háromszor kerüli meg a Napot, addig a Pluto kétszer.",
+      "Az óriásbolygó típusú bolygók közé tartozik, szerkezetét tekintve az Uránuszhoz hasonlít. Tömege 1,0243 ·1026 kg, amivel átmenetet képez a Föld-típusú bolygók és a nagyobb gázóriások között: a tömege a Földének 17-szerese, a Jupiterének pedig 1/19-ed része. Felszíni gravitációja a Jupiter kivételével minden más naprendszerbeli bolygónál nagyobb, noha az csak 20%-kal nagyobb a földinél. Egyenlítői sugara 24 764 km, ami majdnem négyszerese a Földének. A Neptunusz magnetoszféra tekintetében is hasonló az Uránuszhoz. Mágneses tengelye 47°-os szöget zár be a forgástengelyével és nem a bolygó centrumán, hanem attól 13500 km-re halad át. Léte a bolygó belsejében található vezető anyag áramlásának köszönhető."
+    ],
+    "data": {
+      "type": "jégóriás",
+      "mass": 1.02e26,
+      "diameter": 49528,
+      "density": 1.64,
+      "distance": 4.5e9,
+      "temperature": 72,
+      "rotation": 0.67,
+      "moons": 16
+    }
+  }
+]

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galéria</title>
+    <link rel="stylesheet" href="css/header-footer.css">
+    <link rel="stylesheet" href="css/gallery.css">
+    <link rel="icon" href="images/favicon.ico">
+</head>
+<body>
+    <header id="site-header"></header>
+    <h1>Válasszon kategóriát!</h1>
+
+    <div class="category-selector">
+        <div class="category-item">
+            <input type="radio" name="category" id="galaxy" value="galaxy" checked>
+            <label for="galaxy">Galaxis</label>
+        </div>
+
+        <div class="category-item">
+            <input type="radio" name="category" id="nebula" value="nebula">
+            <label for="nebula">Ködfelhő</label>
+        </div>
+
+        <div class="category-item">
+            <input type="radio" name="category" id="spacecraft" value="spacecraft">
+            <label for="spacecraft">Űrszonda</label>
+        </div>
+    </div>
+
+    <div class="gallery" id="gallery"></div>
+
+    <div class="lightbox" id="lightbox">
+        <span id="close-button">&times;</span>
+        <img id="lightbox-image">
+        <div id="lightbox-description"></div>
+    </div>
+    
+    <footer id="site-footer"></footer>
+    
+    <script src="js/header-footer.js"></script>
+    <script src="js/gallery.js"></script>
+</body>
+</html>
