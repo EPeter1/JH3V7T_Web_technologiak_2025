@@ -6,7 +6,7 @@
     <title>Kapcsolatfelvétel</title>
     <link rel="stylesheet" href="css/header-footer.css">
     <link rel="stylesheet" href="css/contact.css">
-    <link rel="icon" href="images/favicon.ico">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 </head>
 <body>
     <header id="site-header"></header>
@@ -41,7 +41,7 @@
             <div class="warning" id="email-warning" role="alert">Az e-mail cím formátuma helytelen!</div>
 
             <label for="phone-number">Telefonszám</label>
-            <div id="phone-container">
+            <div class="phone-container">
                <span style="margin-right: 5px;">+36</span>
                <input type="tel" name="phone-number" id="phone-number" placeholder="Írja be a telefonszámát" style="align-items: center;">
             </div>
@@ -52,7 +52,7 @@
         <textarea name="message" id="message" maxlength="500" placeholder="Miben segíthetünk?" required></textarea>
         <div style="color: #555;">Karakterek: <span id="char-count">0</span> / 500</div>
 
-        <div id="checkbox-container">
+        <div class="checkbox-container">
             <input type="checkbox" id="terms-checkbox" value="true" required>
             <span id="terms-text">Megismertem és elfogadom az <a href="https://gdpr-info.eu/" target="_blank">Adatkezelési nyilatkozatot</a>.</span>
         </div>
@@ -61,7 +61,7 @@
             A <span style="color: red;">*</span>-al jelölt mezők kitöltése kötelező!
         </p>
 
-        <div id="button-container">
+        <div class="button-container">
             <button type="submit" id="submit-button">Küldés</button>
             <button type="reset" id="reset-button">Törlés</button>
         </div>

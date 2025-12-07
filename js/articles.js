@@ -23,10 +23,10 @@ document.addEventListener('DOMContentLoaded', function() {
 var videoPlayer;
 
 function onYouTubeIframeAPIReady() {
-    videoPlayer = new YT.Player('player', {
+    videoPlayer = new YT.Player('video-player', {
         videoId: 'yv4DbU1CWAY',
-        height: '315',
-        width: '560',
+        height: '450',
+        width: '800',
         events: {
             'onReady': onPlayerReady
         }
@@ -34,7 +34,7 @@ function onYouTubeIframeAPIReady() {
 }
 
 function onPlayerReady(event) {
-    document.getElementById('seekButton').addEventListener('click', function() {
+    document.getElementById('seek-button').addEventListener('click', function() {
         videoPlayer.seekTo(65);
     });
 }

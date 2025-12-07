@@ -1,7 +1,4 @@
 body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    color: white;
     overflow-x: hidden;
 }
 
@@ -13,81 +10,13 @@ h1 {
     margin: 0;
 }
 
-.zone {
-    position: relative;
-    overflow: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-    height: 100vh;
-    width: 100%;
-}
-
-#zone1 {
-    background-image:
-        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url('/images/index/space_exploration.webp');
-}
-
-#zone2 {
-    background-image:
-        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url('/images/index/solar_system.webp');
-}
-
-#zone3 {
-    background-image:
-        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url('/images/index/meteor_shower.webp');
-}
-
-#zone4 {
-    background-image:
-        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url('/images/galaxy/milky_way.webp');
-}
-
-#zone5 {
-    background-image:
-        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url('/images/index/contact_us.webp');
-}
-
-.content {
-    position: relative;
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 100px 20px;
-    text-align: center;
-}
-
-.content h2 {
-    font-size: 2rem;
-    margin-bottom: 20px;
-    text-shadow: 0 0 8px #ff0000, 0 0 16px #ff0000;
-}
-
-.content p {
-    font-size: 1.2rem;
-    line-height: 1.5;
-}
-
-.content img {
-    margin-top: 20px;
-    height: 80px;
-}
-
 .side-nav {
+    display: flex;
+    flex-direction: column;
     position: fixed;
     top: 50%;
     right: 25px;
     transform: translateY(-50%);
-    display: flex;
-    flex-direction: column;
     gap: 12px;
     z-index: 100;
 }
@@ -95,9 +24,9 @@ h1 {
 .side-nav button {
     width: 12px;
     height: 12px;
-    border-radius: 50%;
-    border: none;
     background: #555;
+    border: none;
+    border-radius: 50%;
     cursor: pointer;
     transition: background 0.3s ease;
 }
@@ -106,20 +35,84 @@ h1 {
     background: #2ecc40;
 }
 
+.zone {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.zone::before {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    z-index: 1;
+}
+
+.zone-content {
+    max-width: 900px;
+    position: relative;
+    margin: 0 auto;
+    padding: 100px 20px;
+    text-align: center;
+    z-index: 2;
+}
+
+.zone-content h2 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+    text-shadow: 0 0 8px #ff0000, 0 0 16px #ff0000;
+}
+
+.zone-content p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+#zone1 {
+    background-image: url('/images/index/space_exploration.webp');
+}
+
+#zone2 {
+    background-image: url('/images/index/solar_system.webp');
+}
+
+#zone3 {
+    background-image: url('/images/index/meteor_shower.webp');
+}
+
+#zone4 {
+    background-image: url('/images/galaxy/milky_way.webp');
+}
+
+#zone5 {
+    background-image: url('/images/index/contact_us.webp');
+}
+
 #jump-button {
+    display: none;
     position: fixed;
     bottom: 30px;
     right: 30px;
-    background: #2ecc40;
-    color: white;
-    border: none;
     padding: 12px 14px;
+    font-size: 18px;
+    color: white;
+    background: #2ecc40;
+    border: none;
     border-radius: 6px;
     cursor: pointer;
-    font-size: 18px;
-    z-index: 9999;
-    display: none;
     transition: opacity 0.4s ease;
+    z-index: 9999;
 }
 
 #jump-button.visible {

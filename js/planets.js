@@ -6,7 +6,7 @@ fetch('data/planets.json')
         return response.json();
     })
     .then(data => {
-        const navList = document.querySelector('#planet-nav ul');
+        const navList = document.getElementById('planet-list');
         const container = document.getElementById('planet-content');
 
         data.forEach((planet, index) => {
@@ -51,7 +51,7 @@ fetch('data/planets.json')
             colorPicker.addEventListener('input', () => {
                 const rows = table.querySelectorAll('tr');
                 rows.forEach((row, index) => {
-                    row.style.backgroundColor = index % 2 === 0 ? colorPicker.value : '#e0f7fa';
+                    row.style.backgroundColor = index % 2 === 0 ? colorPicker.value : '#396b94';
                 });
             });
 

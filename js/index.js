@@ -23,10 +23,10 @@ const observer = new IntersectionObserver(entries => {
 const zones = document.querySelectorAll(".zone");
 zones.forEach(zone => observer.observe(zone));
 
-$(".content").css("opacity", 0);
+$(".zone-content").css("opacity", 0);
 
 $(window).on("scroll", function() {
-    $(".content").each(function() {
+    $(".zone-content").each(function() {
         var top = $(this).offset().top;
         var scroll = $(window).scrollTop();
         var windowHeight = $(window).height();
@@ -43,7 +43,8 @@ $(document).ready(function() {
     $(window).on("scroll", function() {
         if ($(this).scrollTop() > 300) {
             $jumpButton.fadeIn(400);
-        } else {
+        }
+        else {
             $jumpButton.fadeOut(400);
         }
     });

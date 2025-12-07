@@ -2,75 +2,88 @@ body {
     display: flex;
     flex-direction: column;
     height: 100vh;
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
 }
 
 blockquote {
-    background: #f9f9f9;
-    border-left: 8px solid #4caf50;
+    width: fit-content;
     padding: 15px 20px;
     font-family: Georgia, serif;
     font-style: italic;
+    background-color: #1b1e1f;
+    border-left: 8px solid #4caf50;
+}
+
+figure {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+figcaption {
+    margin-top: 10px;
+    font-family: Georgia, serif;
+    font-style: italic;
+    line-height: 1.5;
+    text-align: justify;
 }
 
 .main-container {
     display: flex;
     flex: 1;
-    margin-top: 0;
     height: 100%;
+    margin-top: 0;
     overflow: hidden;
 }
 
 .sidebar {
     width: 250px;
-    background-color: #333;
-    color: white;
-    padding: 20px;
-    box-sizing: border-box;
-    overflow-y: auto;
-    flex-shrink: 0;
     height: 100%;
+    padding: 20px;
+    background-color: #111b2b;
+    box-sizing: border-box;
 }
 
 .sidebar h3 {
     text-align: center;
 }
 
-.sidebar ul {
-    list-style-type: none;
+#table-of-contents {
+    width: fit-content;
     padding: 0;
+    list-style-type: none;
 }
 
-.sidebar ul li {
+#table-of-contents li {
     padding: 10px;
     cursor: pointer;
 }
 
-.sidebar ul li.active a {
-    text-decoration: underline;
-}
-
-.sidebar ul li a {
+#table-of-contents li a {
+    font-size: 1rem;
     color: white;
     text-decoration: none;
-    font-size: 16px;
 }
 
-.sidebar ul li a:hover {
+#table-of-contents li a:hover {
     color: #ff7f50;
 }
 
-.content {
+#table-of-contents li.active a {
+    font-weight: bold;
+    padding-bottom: 3px;
+    border-bottom: 3px solid #2ecc40;
+}
+
+.article-content {
     flex: 1;
-    padding: 20px;
-    box-sizing: border-box;
-    background-color: #fff;
-    overflow-y: auto;
-    padding-top: 20px;
     height: 100%;
+    padding: 20px;
+    background-color: #33373a;
+    overflow-y: auto;
+    box-sizing: border-box;
 }
 
 .article {
@@ -82,12 +95,28 @@ blockquote {
 }
 
 article h2 {
-    color: #333;
+    color: #ccc;
 }
 
 article p {
     font-size: 1rem;
-    color: #555;
+    color: #ccc;
     text-align: justify;
     line-height: 1.5;
+}
+
+#seek-button {
+    display: inline;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 1.25em;
+    color: white;
+    background-color: gray;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#video-text {
+    max-width: 1000px;
 }

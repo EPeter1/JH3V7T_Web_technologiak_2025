@@ -1,13 +1,9 @@
-#site-header {
+body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-}
-
-#site-footer {
-    display: inline-flex;
-    align-items: center;
-    gap: 15px;
+    color: white;
+    background-color: #33373a;
 }
 
 .navbar {
@@ -15,7 +11,6 @@
     justify-content: space-between;
     align-items: center;
     padding: 15px 30px;
-    color: white;
     background-color: #122023;
 }
 
@@ -24,9 +19,9 @@
     flex-grow: 1;
     justify-content: center;
     align-items: center;
-    list-style: none;
     margin: 0;
     padding: 0;
+    list-style: none;
 }
 
 .navbar-links li {
@@ -34,7 +29,7 @@
 }
 
 .navbar-links a {
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: bold;
     text-decoration: none;
     color: white;
@@ -46,7 +41,14 @@
 }
 
 .navbar-links a.active {
-    font-weight: bold;
     padding-bottom: 3px;
+    font-weight: bold;
     border-bottom: 3px solid #2ecc40;
+}
+
+#site-footer {
+    display: inline-flex;
+    align-items: center;
+    padding-left: 10px;
+    gap: 15px;
 }
